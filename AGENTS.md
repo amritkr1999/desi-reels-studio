@@ -27,6 +27,7 @@
 4. **Self-Improvement Protocol:**
    - Any learning adjustments must be written to `memory/style_playbook.json` and logged to `memory/feedback_history.json`.
    - Do NOT overwrite user modifications in `memory/style_playbook.json` without merging existing parameters.
+   - For complete interaction history, architectural discussions, and phase gate decisions from previous sessions, consult `docs/SESSION_TRANSCRIPT.md`.
 
 ---
 

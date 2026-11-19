@@ -110,6 +110,7 @@ Open **[http://localhost:8500](http://localhost:8500)** in your browser to watch
 * 📄 **[STRATEGY.md](file:///Users/amrit/.gemini/antigravity/scratch/desi-reels-studio/docs/STRATEGY.md):** The 30s hook taxonomy, 3-pillar content formula, IST peak windows, and self-learning loop.
 * 📄 **[SETUP_GUIDE.md](file:///Users/amrit/.gemini/antigravity/scratch/desi-reels-studio/docs/SETUP_GUIDE.md):** Step-by-step instructions for YouTube Data API v3, Instagram Graph API, Facebook Page Reels, and macOS sleep settings.
 * 📄 **[RUNBOOK.md](file:///Users/amrit/.gemini/antigravity/scratch/desi-reels-studio/docs/RUNBOOK.md):** Daily operations, troubleshooting scenarios, `launchd` commands, and log monitoring.
+* 📄 **[SESSION_TRANSCRIPT.md](file:///Users/amrit/.gemini/antigravity/scratch/desi-reels-studio/docs/SESSION_TRANSCRIPT.md):** Complete chronological chat history, architectural decisions, and future roadmap.
 * 📄 **[AGENTS.md](file:///Users/amrit/.gemini/antigravity/scratch/desi-reels-studio/AGENTS.md):** Rules and standards for future AI sessions.
 
 ---
@@ -127,7 +128,8 @@ desi-reels-studio/
 │   ├── IMPLEMENTATION_PLAN.md
 │   ├── STRATEGY.md
 │   ├── SETUP_GUIDE.md
-│   └── RUNBOOK.md
+│   ├── RUNBOOK.md
+│   └── SESSION_TRANSCRIPT.md
 ├── data/
 │   ├── studio.db                <- Local SQLite database (topics, renders, publishing log)
 │   └── topics_seed.json         <- 25+ curated Indian street food and cultural topics
