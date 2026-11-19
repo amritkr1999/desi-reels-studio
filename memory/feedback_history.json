@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2026-11-19T12:25:26.553350+05:30",
+    "video_id": 1,
+    "rating": 4,
+    "critique": "The subtitles are too low on Instagram, and the speaker was talking too fast in the middle.",
+    "applied_changes": {
+      "target_wpm": "160 -> 152"
+    }
+  },
+  {
+    "timestamp": "2026-11-19T12:25:47.654215+05:30",
+    "video_id": 1,
+    "rating": 4,
+    "critique": "The subtitles are too low on Instagram, and the speaker was talking too fast in the middle.",
+    "applied_changes": {
+      "target_wpm": "152 -> 144",
+      "subtitle_margin_v": "240 -> 270px"
+    }
+  },
+  {
+    "timestamp": "2026-11-19T12:29:28.591786+05:30",
+    "video_id": 1,
+    "rating": 5,
+    "critique": "The speech was a bit too slow, and subtitles were too low on Instagram.",
+    "applied_changes": {
+      "target_wpm": "144 -> 152",
+      "subtitle_margin_v": "270 -> 300px"
+    }
+  },
+  {
+    "timestamp": "2026-11-19T12:32:38.697973+05:30",
+    "video_id": 1,
+    "rating": 5,
+    "critique": "The speech was a bit too slow, and subtitles were too low on Instagram.",
+    "applied_changes": {
+      "target_wpm": "152 -> 160",
+      "subtitle_margin_v": "300 -> 330px"
+    }
+  }
+]

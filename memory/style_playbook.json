@@ -1,0 +1,59 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-11-19T12:32:38.697794+05:30",
+  "pacing": {
+    "target_duration_seconds": 30.0,
+    "target_word_count_min": 75,
+    "target_word_count_max": 85,
+    "target_scenes": 6,
+    "average_scene_duration_seconds": 5.0,
+    "target_wpm": 160
+  },
+  "hooks": {
+    "archetype_weights": {
+      "sensory_shock": 0.35,
+      "contrarian_question": 0.25,
+      "secret_royalty": 0.25,
+      "hyper_local_superlative": 0.15
+    },
+    "max_hook_duration_seconds": 3.0
+  },
+  "visual_style": {
+    "aspect_ratio": "9:16",
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "transition_type": "crossfade",
+    "transition_duration_seconds": 0.4,
+    "motion_zoom_speed": 0.002,
+    "color_saturation_boost": 1.15
+  },
+  "subtitles": {
+    "font_name": "Montserrat-Bold",
+    "font_fallback": "Arial Black",
+    "font_size": 72,
+    "primary_color": "&H00FFFFFF",
+    "outline_color": "&H00000000",
+    "highlight_color": "&H0000E5FF",
+    "outline_width": 4,
+    "shadow_depth": 2,
+    "margin_v": 330,
+    "max_words_per_line": 3
+  },
+  "story_pillars": {
+    "pillar_1_food_craft": [
+      3.0,
+      14.0
+    ],
+    "pillar_2_history_lore": [
+      14.0,
+      23.0
+    ],
+    "pillar_3_insider_tip_cta": [
+      23.0,
+      30.0
+    ]
+  }
+}

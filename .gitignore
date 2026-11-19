@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & Packaging
+.env
+.venv/
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Credentials & OAuth Tokens (CRITICAL SECURITY)
+credentials/*
+!credentials/.gitkeep
+*.pem
+*.key
+*.token
+*.json_token
+token.json
+client_secret*.json
+
+# Media, Caches & Render Outputs
+output/*.mp4
+output/*.mov
+output/*.mkv
+!output/.gitkeep
+temp/*
+!temp/.gitkeep
+reference_videos/*
+!reference_videos/.gitkeep
+
+# Local Databases (runtime state)
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# macOS & System files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo

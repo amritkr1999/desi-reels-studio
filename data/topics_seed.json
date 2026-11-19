@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Daulat ki Chaat: Old Delhi's Winter Dew Cloud",
+    "region": "North India (Delhi)",
+    "category": "street_food",
+    "ground_truth_summary": "Daulat ki Chaat is a delicate winter dessert sold exclusively in the narrow alleys of Chandni Chowk and Dariba Kalan in Old Delhi from November to February. Made by churning raw milk and cream for hours before leaving it on roof terraces under the cold winter night sky to catch morning dew, creating an ethereal foam garnished with saffron, khoya, pistachio, and silver vark. It melts on the tongue in seconds."
+  },
+  {
+    "title": "Tunday Kababi: The Royal 160-Toothless Nawab Kebab",
+    "region": "North India (Lucknow, Uttar Pradesh)",
+    "category": "culture",
+    "ground_truth_summary": "Created in 1905 in Lucknow's Chowk bazaar by Haji Murad Ali, who lost an arm in a kite-flying accident (earning the moniker 'Tunday'). Formulated for a toothless Awadhi Nawab who loved meat, the Galouti kebab is tenderized with raw papaya and infused with a secret blend of 160 aromatic spices, pan-fried on a massive brass tawa using ghee, dissolving completely without chewing."
+  },
+  {
+    "title": "Mumbai Vada Pav: The Textile Mill Workers' Lifeline",
+    "region": "West India (Mumbai, Maharashtra)",
+    "category": "street_food",
+    "ground_truth_summary": "Invented in 1966 by Ashok Vaidya outside Dadar railway station to feed thousands of mill workers rushing into Girangaon's textile mills. A spiced potato ball coated in gram flour batter, deep-fried golden, and sandwiched in a soft pav laced with fiery garlic-peanut chutney and green chilies. Now Mumbai's quintessential ₹20 street meal."
+  },
+  {
+    "title": "Tiretti Bazaar: Kolkata's 100-Year-Old Hakka Chinese Breakfast",
+    "region": "East India (Kolkata, West Bengal)",
+    "category": "culture",
+    "ground_truth_summary": "Every morning at 5:30 AM in Central Kolkata's Tiretti Bazaar (Old Chinatown), descendants of Hakka Chinese immigrants who arrived in the late 18th century set up makeshift wooden tables selling authentic pork baozi, steaming fish ball soup, chicken wontons, and prawn crackers, wrapping up completely by 7:30 AM."
+  },
+  {
+    "title": "Sarafa Bazaar: Indore's Midnight Jewelry Street Food Transformation",
+    "region": "Central India (Indore, Madhya Pradesh)",
+    "category": "street_food",
+    "ground_truth_summary": "By day, Sarafa Bazaar is a bustling diamond and gold jewelry market. At 8:30 PM, shutters roll down and over 100 food carts take over until 3:00 AM. Famous for Garadu (crispy fried spiced yam tossed in chaat masala), Bhutte ka Kees (grated corn simmered in milk and mustard seeds), and gigantic 250g Jalebas."
+  },
+  {
+    "title": "Madurai Jigarthanda: The Royal Cooling Elixir of Tamil Nadu",
+    "region": "South India (Madurai, Tamil Nadu)",
+    "category": "street_food",
+    "ground_truth_summary": "Originally introduced to Madurai by Mughal settlers, 'Jigarthanda' translates to 'heart cooler'. Handcrafted with badam pisin (natural almond gum resin), reduced caramelized milk (basundi), nannari root sarsaparilla syrup, and crowned with a scoop of churned milk ice cream. Famous at Famous Jigarthanda on East Marret Street."
+  },
+  {
+    "title": "Varanasi Malaiyo: The Sacred Froth of Kashi's Banaras Ghats",
+    "region": "North India (Varanasi, Uttar Pradesh)",
+    "category": "street_food",
+    "ground_truth_summary": "Sold in early winter mornings around Thatheri Bazaar and Chaukhamba in Varanasi. Milk is boiled in large iron cauldrons, cooled, and left exposed to night mist on rooftops. The resulting morning foam is hand-churned with saffron, cardamom, and rose water, served in miniature unglazed earthen kulhads topped with chopped pistachios."
+  },
+  {
+    "title": "Benne Dosa: The Butter-Drenched Marvel of Davanagere",
+    "region": "South India (Davanagere, Karnataka)",
+    "category": "street_food",
+    "ground_truth_summary": "Originating in the 1920s in Davanagere, Karnataka, prepared using fermented rice and puffed rice batter cooked exclusively over wood-fired iron griddles. Generous dollops of fresh, locally churned unsalted white butter (benne) melt into the crisp porous surface, served with spicy potato mash and coconut chutney on banana leaves."
+  },
+  {
+    "title": "Hyderabadi Irani Chai & Osmania Biscuit: The Qutb Shahi Legacy",
+    "region": "South India (Hyderabad, Telangana)",
+    "category": "culture",
+    "ground_truth_summary": "Brought to Hyderabad by Persian Zoroastrian migrants in the early 20th century. Prepared using the 'dum' method where pure condensed milk and tea decoction are brewed separately in sealed copper samovars and combined only at the moment of pouring, paired with sweet-and-salty Osmania biscuits named after the last Nizam."
+  },
+  {
+    "title": "Amritsar Beera Chicken & Clay Oven Kulchas",
+    "region": "North India (Amritsar, Punjab)",
+    "category": "street_food",
+    "ground_truth_summary": "Since 1972 on Majitha Road, Beera Chicken roasts whole chickens marinated only in roasted cumin, whole spices, and lime juice without food coloring, roasted whole in charcoal tandoors. Paired with 7-layered flaky Amritsari kulchas stuffed with spiced potatoes and baked against charcoal clay walls."
+  },
+  {
+    "title": "Jodhpur Mirchi Vada: The Fiery Blue City Breakfast",
+    "region": "West India (Jodhpur, Rajasthan)",
+    "category": "street_food",
+    "ground_truth_summary": "A breakfast staple across Rajasthan's Sun City. Plump, mildly spicy Bhavnagri green chilies are stuffed with a tangy spiced mashed potato mix flavored with amchur (dry mango powder), dipped in thick besan batter, and fried crisp. Best consumed with sweet tamarind and pungent mint chutney at Shahi Samosa."
+  },
+  {
+    "title": "Kochi Fort Syrian Christian Beef Roast & Porotta",
+    "region": "South India (Kochi, Kerala)",
+    "category": "culture",
+    "ground_truth_summary": "In the shadow of the Chinese fishing nets in Fort Kochi and Mattancherry, street thalams serve slow-cooked beef roast cooked in coconut oil with fresh curry leaves, crushed shallots, and slivers of toasted fresh coconut (thenga kothu), scooped up with 12-layered flaky layered Kerala parottas."
+  },
+  {
+    "title": "Ahmedabad Manek Chowk Gwalior Dosa",
+    "region": "West India (Ahmedabad, Gujarat)",
+    "category": "street_food",
+    "ground_truth_summary": "Every night, the historic square of Manek Chowk surrounded by heritage havelis turns into a high-energy culinary spectacle. Famous for the Gwalior Dosa, where entire 100g slabs of Amul butter are melted over a single cheese-strewn dosa on blistering hot tawas."
+  },
+  {
+    "title": "Cuttack Dahi Bara Aloo Dum: Odisha's Earthen Street Soul",
+    "region": "East India (Cuttack, Odisha)",
+    "category": "street_food",
+    "ground_truth_summary": "Odisha's iconic street food served from large earthenware handis mounted on bicycle carriers. Urad dal vadas soaked in tangy spiced thin buttermilk (dahi pani), topped with a rich, dark gravy of slow-cooked aloo dum, boiled yellow peas (ghugni), chopped onions, and roasted cumin-chili powder."
+  },
+  {
+    "title": "Surat Locho: The Accidental Steamed Masterpiece",
+    "region": "West India (Surat, Gujarat)",
+    "category": "street_food",
+    "ground_truth_summary": "Born by accident when a Gujarati street chef miscalculated the water ratio in his khaman batter, producing an irregular steamed mixture ('locho' meaning mess). Served piping hot, drizzled with spicy groundnut oil, butter, sev, and green coriander chutney, it became Surat's most popular morning snack."
+  },
+  {
+    "title": "Shillong Jadoh: The Khasi Sacred Mountain Pork Rice",
+    "region": "Northeast India (Shillong, Meghalaya)",
+    "category": "culture",
+    "ground_truth_summary": "At Police Bazar and Iewduh market in Meghalaya, Khasi food stalls serve Jadoh: short-grain aromatic hill rice cooked in country pork broth with ginger, wild pepper, and bay leaves. Often paired with Dohkhlieh (pork salad with ginger and local chillies) and steaming bamboo shoots."
+  },
+  {
+    "title": "Mysore Pak: The Maharaja's Spontaneous Palace Confection",
+    "region": "South India (Mysuru, Karnataka)",
+    "category": "culture",
+    "ground_truth_summary": "Invented in 1935 in the royal kitchens of Mysore Palace by royal chef Kakasura Madappa for Maharaja Krishnaraja Wadiyar IV. Made by dropping a boiling concoction of gram flour, sugar syrup, and pure ghee into wooden molds. Today, his descendants continue the tradition at Guru Sweet Mart on Sayyaji Rao Road."
+  },
+  {
+    "title": "Patna Litti Chokha: The Ancient Cow-Dung Ash Roasting Art",
+    "region": "East India (Patna, Bihar)",
+    "category": "street_food",
+    "ground_truth_summary": "Wheat flour dough balls stuffed with spiced sattu (roasted black gram flour, carom seeds, and mustard oil), baked directly over dying cow-dung cake embers until charred, then cracked open and submerged whole into melted desi ghee. Served with smoky roasted eggplant and tomato chokha."
+  },
+  {
+    "title": "Bhopal Poha Jalebi with Sulaimani Chai",
+    "region": "Central India (Bhopal, Madhya Pradesh)",
+    "category": "street_food",
+    "ground_truth_summary": "Bhopal's breakfast at Itwara Chowk blends steamed flattened rice spiced with fennel seeds and crowned with crunchy Ratlami sev and pomegranate pearls, served with crisp, syrup-soaked orange jalebis and Sulaimani spiced black tea brewed in antique samovars."
+  },
+  {
+    "title": "Panjim Ros Omelette: Goa's Midnight Street Cart Fuel",
+    "region": "West India (Panjim, Goa)",
+    "category": "street_food",
+    "ground_truth_summary": "Served late at night outside Panjim's municipal gardens. A freshly fried two-egg coriander-onion omelette submerged in a deep bowl of piping hot chicken or mutton xacuti gravy ('ros' meaning juice/gravy), eaten by tearing soft Goan poi bread."
+  },
+  {
+    "title": "Srinagar Tujji: The Dal Lake Charcoal Barbecue",
+    "region": "North India (Srinagar, Kashmir)",
+    "category": "street_food",
+    "ground_truth_summary": "Along the shores of Dal Lake at Khayam Chowk, Kashmiri street barbecues line the street with narrow open charcoal braziers. Minced and spiced mutton pieces are threaded onto flat iron skewers, grilled over glowing embers, and served on crisp Kashmiri lavasa bread with seven different walnut and radish chutneys."
+  },
+  {
+    "title": "Pune Bedekar Misal: The Multi-Layered Maharashtrian Fire",
+    "region": "West India (Pune, Maharashtra)",
+    "category": "street_food",
+    "ground_truth_summary": "Since 1948 in Narayan Peth, Pune. Sprouted moth beans (matki) topped with spicy farsan, diced onions, and coriander, submerged in a blistering red spicy gravy ('kat' or 'rassa') served with toasted ladi pav and a wedge of fresh lemon."
+  },
+  {
+    "title": "Jaipur Pyaaz Kachori at Rawat Mishthan Bhandar",
+    "region": "North India (Jaipur, Rajasthan)",
+    "category": "street_food",
+    "ground_truth_summary": "Since 1972 on Station Road, Jaipur. Golden flaky pastry dough deep-fried on slow flame for 45 minutes, encasing a savory, spiced filling of caramelized onions, asafoetida (hing), kalonji, and crushed coriander seeds."
+  },
+  {
+    "title": "Dharamsala Momos: Tibetan Mountain Comfort in McLeod Ganj",
+    "region": "North India (Dharamsala, Himachal Pradesh)",
+    "category": "culture",
+    "ground_truth_summary": "Hand-folded dumplings filled with local hill vegetables or spiced meat, steamed in tiered aluminum steamers along Temple Road in McLeod Ganj. Served with fiery mountain chili garlic paste and piping hot clear bone broth."
+  },
+  {
+    "title": "Bodh Gaya Tilkut: The Winter Sesame Sweet of Enlightenment",
+    "region": "East India (Gaya, Bihar)",
+    "category": "culture",
+    "ground_truth_summary": "Crafted exclusively during the winter months in the ancient pilgrimage town of Gaya. White sesame seeds and boiling jaggery or sugar syrup are hand-beaten with heavy wooden mallets for hours until thin, brittle, and melt-in-the-mouth, known for its digestive warmth."
+  }
+]
